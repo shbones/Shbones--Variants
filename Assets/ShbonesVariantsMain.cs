@@ -8,6 +8,7 @@ using UnityEngine;
 using Moonstorm;
 using System.Security.Permissions;
 using System.Security;
+using R2API.Utils;
 
 [assembly: HG.Reflection.SearchableAttribute.OptIn]
 
@@ -18,7 +19,7 @@ using System.Security;
 
 namespace ShbonesVariants
 {
-    //[NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.EveryoneNeedSameModVersion)]
+    [NetworkCompatibility(CompatibilityLevel.EveryoneMustHaveMod, VersionStrictness.EveryoneNeedSameModVersion)]
     [BepInDependency(VAPI.VAPIMain.GUID)]
     [BepInPlugin(GUID, MODNAME, VERSION)]
 	public class ShbonesVariantsMain : BaseUnityPlugin

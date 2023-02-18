@@ -3,8 +3,8 @@
     "references": [
         "Unity.Postprocessing.Runtime",
         "com.unity.multiplayer-hlapi.Runtime",
-        "Unity.TextMeshPro",
-        "UnityEngine.UI"
+        "MoonstormSharedUtils",
+        "VarianceAPI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

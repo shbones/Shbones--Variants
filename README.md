@@ -43,5 +43,6 @@ If you have anything to say, feel free to ping me in the Risk of Rain 2 Modding 
 - Nebby for VarianceAPI, TO30 and Nebby's Wrath, MoonstormSharedUtils, and other help
 - Twiner for Thunderkit
 - Tony for the icon
+- HeyImnoop for the Thunderkit tutorial video
 - Rob for the original MonsterVariants
 - Everyone in the Modding Discord
