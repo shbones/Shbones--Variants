@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a32c800de692724987c09332b116470, type: 3}
   m_Name: BroodlingPest
   m_EditorClassIdentifier: 
-  bodyName: FlyingVerminBody12
+  bodyName: FlyingVerminBody
   variantTier: 4
   variantTierDef: {fileID: 11400000, guid: f052d5595f2226144aae48ac0a20e9eb, type: 2}
   isUnique: 0
@@ -30,10 +30,10 @@ MonoBehaviour:
   shieldMultiplier: 1
   moveSpeedMultiplier: 1.5
   attackSpeedMultiplier: 1
-  damageMultiplier: 0.75
+  damageMultiplier: 1
   armorBonus: 0
   armorMultiplier: 1
-  visualModifier: {fileID: 0}
+  visualModifier: {fileID: 11400000, guid: 04dee51703a2a1e43966d7566b796010, type: 2}
   sizeModifier: {fileID: 11400000, guid: 326a545b60ae6954884b3c7f1466de37, type: 2}
   aiModifier: 0
   nameOverrides:

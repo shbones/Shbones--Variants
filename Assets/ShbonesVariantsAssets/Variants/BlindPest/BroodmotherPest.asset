@@ -16,7 +16,7 @@ MonoBehaviour:
   variantTier: 3
   variantTierDef: {fileID: 0}
   isUnique: 1
-  spawnRate: 0
+  spawnRate: 2
   variantSpawnCondition: {fileID: 0}
   arrivalToken: SHBVAR_BROODMOTHER_ARRIVAL
   variantInventory: {fileID: 0}
@@ -35,7 +35,7 @@ MonoBehaviour:
   damageMultiplier: 1
   armorBonus: 20
   armorMultiplier: 1
-  visualModifier: {fileID: 0}
+  visualModifier: {fileID: 11400000, guid: 04dee51703a2a1e43966d7566b796010, type: 2}
   sizeModifier: {fileID: 11400000, guid: 6a85c31d99580f74a964353c7ebd3913, type: 2}
   aiModifier: 0
   nameOverrides:

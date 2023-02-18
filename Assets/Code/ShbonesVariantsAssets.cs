@@ -16,6 +16,8 @@ namespace ShbonesVariants
         {
             var bundlePath = System.IO.Path.Combine(AssemblyDir, "assetbundles", "shbonesvariantsassets");
             _assetBundle = AssetBundle.LoadFromFile(bundlePath);
+            SwapShadersFromMaterialsInBundle(_assetBundle);
+            
 
             FinalizeMaterialsWithAddressableMaterialShader(_assetBundle);
         }
