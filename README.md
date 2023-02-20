@@ -22,6 +22,12 @@ Adds new monster variants to the game using Nebby's VarianceAPI.
         - 75% HP
         - 150% Speed
         - 100% Damage
+    Adult Lemurian (7% Chance)
+        - Tier: Uncommon
+        - Name Prefix: Adult
+        - 200% Size
+        - 250% HP
+        - Fireball Attack Replaced with 3 Elder Lemurian Fireballs fired in small spread pattern
 
 
 These are my first monsters/variants, so the ability and stat tuning is likely off and will most likely change as I get feedback. Please ping me in the Modding Discord if you have any feedback at shbones#0085

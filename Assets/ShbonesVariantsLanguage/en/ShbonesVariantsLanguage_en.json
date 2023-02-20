@@ -5,10 +5,12 @@
     "SHBVAR_VARIANTPACK_DESC": "New monster variants from Shbones.",
     "SHBVAR_BROODMOTHER_SUFFIX": "Broodmother",
     "SHBVAR_BROODLING_COMPLETE_NAME": "Blind Broodling",
-
     "SHBVAR_BROODMOTHER_ARRIVAL": "A mother cries out for her young...",
-
     "SHBVAR_SUMMONBROODLING_SKILL_NAME": "SpawnBrood",
-    "SHBVAR_SUMMONBROODLING_SKILL_DESCRIPTION": "Spawns 3 Blind Broodlings"
+    "SHBVAR_SUMMONBROODLING_SKILL_DESCRIPTION": "Spawns 3 Blind Broodlings",
+
+    "SHBVAR_ADULT_LEMURIAN_PREFIX": "Adult",
+    "SHBVAR_SUMMONBROODLING_SKILL_NAME": "Fire Big Fireballs",
+    "SHBVAR_SUMMONBROODLING_SKILL_DESCRIPTION": "Fires 3 Fireballs"
   }
 }

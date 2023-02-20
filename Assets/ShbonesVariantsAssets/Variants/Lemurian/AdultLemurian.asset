@@ -15,8 +15,8 @@ MonoBehaviour:
   bodyName: LemurianBody
   variantTier: 1
   variantTierDef: {fileID: 0}
-  isUnique: 1
-  spawnRate: 6
+  isUnique: 0
+  spawnRate: 7
   variantSpawnCondition: {fileID: 0}
   arrivalToken: 
   variantInventory: {fileID: 0}
@@ -25,7 +25,7 @@ MonoBehaviour:
   skillReplacements:
   - skillDef: {fileID: 11400000, guid: ece88e28becc0ac41b9dde5fcdf9c2c4, type: 2}
     skillSlot: 0
-  healthMultiplier: 1
+  healthMultiplier: 2.5
   regenBonus: 0
   regenMultiplier: 0
   shieldBonus: 0
@@ -39,6 +39,14 @@ MonoBehaviour:
   sizeModifier: {fileID: 11400000, guid: e2cd0f5d4e69d5943ab6c91822f28bc7, type: 2}
   aiModifier: 0
   nameOverrides:
-  - token: Adult
+  - token: SHBVAR_ADULT_LEMURIAN_PREFIX
     overrideType: 0
-  componentProviders: []
+  componentProviders:
+  - componentToAdd:
+      assemblyQualifiedName: ShbonesVariants.Components.ExtendAdultLemurianRange,
+        ShbonesVariants, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    attachmentType: 1
+  - componentToAdd:
+      assemblyQualifiedName: ShbonesVariants.Components.MoveAdultLemurianAimOrigin,
+        ShbonesVariants, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    attachmentType: 0

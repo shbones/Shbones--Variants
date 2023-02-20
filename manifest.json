@@ -1,8 +1,8 @@
 {
     "name": "ShbonesVariants",
-    "version_number": "0.0.2",
+    "version_number": "0.0.3",
     "website_url": "https://github.com/shbones/Shbones--Variants",
-    "description": "Adds new monster variants to the game using Nebby's VarianceAPI.",
+    "description": "Adds 3 new monster variants to the game using Nebby's VarianceAPI.",
     "dependencies": [
         "Nebby-VarianceAPI-2.0.2"
     ]

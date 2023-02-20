@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: AdultLemurianFireball
   m_EditorClassIdentifier: 
   skillName: FireBigFireball
-  skillNameToken: FireBigFireball
-  skillDescriptionToken: FireBigFireball
+  skillNameToken: SHBVAR_SUMMONBROODLING_SKILL_NAME
+  skillDescriptionToken: SHBVAR_SUMMONBROODLING_SKILL_DESCRIPTION
   keywordTokens: []
   icon: {fileID: 21300000, guid: c2b29e438a40ab74aa6f8aed7dad2859, type: 3}
   activationStateMachineName: Weapon

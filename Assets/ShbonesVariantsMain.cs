@@ -26,7 +26,7 @@ namespace ShbonesVariants
 	{
 		public const string GUID = "com.Shbones.ShbonesVariants";
 		public const string MODNAME = "Shbones Variants";
-		public const string VERSION = "0.0.2";
+		public const string VERSION = "0.0.3";
 
         public static ShbonesVariantsMain Instance { get; private set; }
         private void Awake()
