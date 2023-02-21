@@ -1,4 +1,5 @@
 ﻿using RoR2.CharacterAI;
+
 using VAPI.Components;
 
 namespace ShbonesVariants.Components

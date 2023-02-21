@@ -16,7 +16,7 @@ MonoBehaviour:
   variantTier: 1
   variantTierDef: {fileID: 0}
   isUnique: 0
-  spawnRate: 7
+  spawnRate: 6
   variantSpawnCondition: {fileID: 0}
   arrivalToken: 
   variantInventory: {fileID: 0}

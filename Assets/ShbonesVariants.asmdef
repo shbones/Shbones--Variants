@@ -51,7 +51,8 @@
         "R2API.TempVisualEffect.dll",
         "R2API.Unlockable.dll",
         "MoonstormSharedUtils.dll",
-        "VarianceAPI.dll"
+        "VarianceAPI.dll",
+        ""
     ],
     "autoReferenced": true,
     "defineConstraints": [],

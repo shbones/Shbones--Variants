@@ -4,7 +4,6 @@ Generated from a ROR2EK Template. Feel free to remove this comment section.
 */
 
 using BepInEx;
-using UnityEngine;
 using Moonstorm;
 using System.Security.Permissions;
 using System.Security;
@@ -37,7 +36,7 @@ namespace ShbonesVariants
             new ShbonesVariantsAssets().Init();
             new ShbonesVariantsLang().Init();
             new ShbonesVariantsContent().Init();
-
+         
             ConfigurableFieldManager.AddMod(this);
             Log.Info("Loaded ShbonesVariants");
         }

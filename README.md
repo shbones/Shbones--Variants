@@ -22,18 +22,20 @@ Adds new monster variants to the game using Nebby's VarianceAPI.
         - 75% HP
         - 150% Speed
         - 100% Damage
-    Adult Lemurian (7% Chance)
+    Adult Lemurian (6% Chance)
         - Tier: Uncommon
         - Name Prefix: Adult
         - 200% Size
         - 250% HP
+        - 2x Range to start Fireball attack
         - Fireball Attack Replaced with 3 Elder Lemurian Fireballs fired in small spread pattern
 
 
 These are my first monsters/variants, so the ability and stat tuning is likely off and will most likely change as I get feedback. Please ping me in the Modding Discord if you have any feedback at shbones#0085
 
 ## Known Issues
-* None yet (other than potentially balance)
+* When a Lemurian rolls both Flamethrower (from TheOriginal30) and Adult, it will begin using Flamethrower from 70 distance but flamethrower has a range of 40. Will address this soon. This is currently very unlikely due to these variants having a low chance of spawning together.
+* None (other than potentially balance)
 
 ## Potential Future Work
 * New Variants!
